@@ -1,0 +1,1 @@
+const offerLink = "https://c8ke.com/adverten12";
